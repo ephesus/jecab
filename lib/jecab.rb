@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 require "jecab/version"
 require "jecab/configuration"
 
