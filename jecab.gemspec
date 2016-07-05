@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{A japanese NLP (not really) specifically for Japanese JPO OAs}
   spec.description   = %q{A japanese NLP (not really) specifically for Japanese JPO OAs}
   spec.homepage      = "http://wrive.com"
-  spec.license       = 'GPLv2+'
+  spec.license       = 'GPLv3'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
