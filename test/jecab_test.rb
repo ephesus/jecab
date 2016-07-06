@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 require 'test_helper'
 
 class JecabTest < Minitest::Test
@@ -29,9 +31,9 @@ class JecabTest < Minitest::Test
   end
 
   def test_parser_object
-    parser = Jecab.parse("請求項１を引用する請求項２－２３，請求項２４を引用する請求項２５－３７についても同様である")
+    parser = ::Jecab.parse("請求項１を引用する請求項２－２３，請求項２４を引用する請求項２５－３７についても同様である")
 
-    assert_instance_of Jecab::Parser, parser
+    assert_instance_of ::Jecab::Parser, parser
     refute parser.instance_variable_get(:@string).nil?
   end
 end
