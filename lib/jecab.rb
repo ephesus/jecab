@@ -12,4 +12,10 @@ module Jecab
     self.configuration ||= Configuration.new
     yield(configuration)
   end
+
+  def self.parse(string)
+    Jecab::Parser.new(string)
+  end
 end
+
+require "jecab/parser"
