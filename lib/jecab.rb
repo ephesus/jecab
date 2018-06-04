@@ -2,6 +2,7 @@
 
 require "jecab/version"
 require "jecab/configuration"
+require "jecab/parser"
 
 module Jecab
   class << self
@@ -18,4 +19,3 @@ module Jecab
   end
 end
 
-require "jecab/parser"
