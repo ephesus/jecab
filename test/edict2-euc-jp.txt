@@ -1,0 +1,100 @@
+　？？？ /EDICT, EDICT_SUB(P), EDICT2 Japanese-English Electronic Dictionary Files/Copyright Electronic Dictionary Research & Development Group - 2016/Created: 2018-06-03/
+U字ロック [ユーじロック] /(n) U-lock/D-lock/EntL2835520/
+ヽ /(unc) repetition mark in katakana/EntL1000000/
+ヾ /(unc) voiced repetition mark in katakana/EntL1000010/
+ゝ /(unc) repetition mark in hiragana/EntL1000020/
+ゞ /(unc) voiced repetition mark in hiragana/EntL1000030/
+〃 [おなじ;おなじく] /(n) ditto mark/EntL1000040X/
+仝 [どうじょう] /(n) "as above" mark/EntL1000050X/
+々 [のま;ノマ] /(n) (See 同の字点) kanji iteration mark/EntL1000060X/
+〆る [しめる] /(v1,vt) (See 締める・しめる・3) to total/to sum/EntL2761830/
+〆粕;搾滓;搾め糟;搾めかす;搾め滓;乄粕 [しめかす] /(n) oil cake/scrap cake/EntL2055680X/
+〇〇;○○ [まるまる] /(n) (1) symbol used as a placeholder (either because a number of other words could be used in that position, or because of censorship)/(n-pref) (2) certain/unnamed/undisclosed/unidentified/EntL2146000/
+〇×;○× [まるばつ] /(n) circle and cross/right and wrong (answers)/true-false/EntL2741050/
+〇×テスト;○×テスト [まるばつテスト] /(n) true-false test/yes-no test/EntL2528540/
+ー /(n) (known as ちょうおん) long vowel mark (usually only used in katakana)/EntL1607150/
+＠系 [アットけい] /(n) (See ローグライク) roguelike (genre of computer game with typically ASCII graphics)/EntL2433110X/
+○;〇 [まる] /(n) (1) (See 丸・まる・1) circle (sometimes used for zero)/(2) (See 二重丸・にじゅうまる) 'correct' (when marking)/(3) (See 〇〇・まるまる・1) symbol used as a placeholder (either because a number of other words could be used in that position, or because of censorship)/(4) (See 句点) period/full stop/(5) (See 半濁点) maru mark/semivoiced sound/p-sound/EntL1000090X/
+△ [さんかく] /(n) (See 三角) average (e.g. as a mark for homework)/weak/EntL2273890X/
+０９０金融 [ゼロキューゼロきんゆう] /(n) "090" financing/loan sharks operating from a cellphone (i.e. without a fixed phone number)/EntL2536430/
+０型 [ゼロがた] /(n) type 0 blood/blood group 0/EntL2831591/
+１．５次会 [いってんごじかい] /(n) (See 二次会) informal wedding ceremony/EntL2828659/
+１０００円(P);千円 [せんえん] /(n) 1000 yen/(P)/EntL1388780X/
+１００円ショップ [ひゃくえんショップ] /(n) hundred-yen store/(P)/EntL2100330X/
+１００円均一 [ひゃくえんきんいち] /(n) (abbr) (See １００円均一ショップ・ひゃくえんきんいちショップ) hundred-yen store/100 yen store/EntL2644360/
+１００円均一ショップ [ひゃくえんきんいちショップ] /(n) hundred-yen store/100 yen store/EntL2644350/
+１００均(P);百均 [ひゃっきん] /(n) (abbr) (See １００円均一ショップ,１００円均一) hundred-yen store/100 yen shop/(P)/EntL2123190X/
+１０進２進変換;十進二進変換 [じっしんにしんへんかん] /(n) {comp} decimal to binary conversion/EntL2276870X/
+１０進演算;十進演算 [じっしんえんざん] /(n) {comp} decimal arithmetic/EntL2276880X/
+１０進演算子;十進演算子 [じっしんえんざんし] /(n) {comp} decimal operator/EntL2276890X/
+１０進基数;十進基数 [じっしんきすう] /(n) {comp} decimal radix/EntL2276900X/
+１０進小数;十進小数 [じっしんしょうすう] /(n) {comp} decimal fraction/EntL2276910X/
+１０進小数点;十進小数点 [じっしんしょうすうてん] /(n) {comp} decimal point/EntL2276920X/
+１０進数;十進数 [じっしんすう] /(n) {comp} decimal/decimal digit/decimal number/EntL2276930X/
+１０分;十分 [じっぷん;じゅっぷん] /(n) 10 minutes/EntL1335070X/
+１１０番(P);一一〇番 [ひゃくとおばん] /(n,vs) police emergency tel. no. (in Japan)/(P)/EntL1602180X/
+１２月病;十二月病 [じゅうにがつびょう] /(n) Christmas blues/holiday stress (during December)/EntL2715530/
+１８６７年憲法法 [せんはっぴゃくろくじゅうしちねんけんぽうほう] /(n) Constitution Act 1867 (which established Canada)/EntL2522270/
+１８禁;十八禁 [じゅうはちきん] /(n) 18 certificate/R-18/restricted to those 18 years or older/EntL2233840X/
+１９８２年憲法 [せんきゅうひゃくはちじゅうにねんけんぽう] /(n) Constitution Act, 1982 (part of the Canadian Constitution)/EntL2521950/
+１ＤＫ [ワンディーケー] /(n) (See ＤＫ・ディーケー・1) apartment with one bedroom and a combined dining room and kitchen/EntL2835304/
+１Ｋ [ワンケー] /(n) (See Ｋ・ケー・8) apartment with one bedroom and a kitchen/EntL2835303/
+１ＬＤＫ [ワンエルディーケー] /(n) (See ＬＤＫ・エルディーケー) apartment with one bedroom and a combined living room, dining room and kitchen/EntL2835305/
+１Ｒ [ワンルーム;ワン・ルーム] /(n) one room apartment (wasei: one room)/studio apartment/EntL2510180/
+１コマ;一コマ;１こま;一こま;一齣;一駒(iK) [ひとコマ(１コマ,一コマ);ひとこま(１こま,一こま,一齣,一駒)] /(n) (1) one scene/one frame/one shot/one exposure/(2) one cell/one panel (comic)/EntL1162000X/
+１割(P);一割 [いちわり] /(n) ten percent/(P)/EntL1161440X/
+１次キャッシュ [いっしキャッシュ] /(n) {comp} level 1 cache/EntL2276950X/
+１人あたり;１人当たり;一人当たり;一人あたり [ひとりあたり] /(exp,adv) per person/per capita/per head/EntL1163800X/
+１対１(P);一対一(P) [いちたいいち(P);いったいいち] /(n,adj-no) one-to-one/one-on-one/(P)/EntL1164560X/
+１対１の通信 [いちたいいちのつうしん] /(n) {comp} one to one communication/EntL2276960X/
+１斗缶;一斗缶 [いっとかん] /(n) eighteen litre drum/EntL2272120X/
+１等(P);一等 [いっとう] /(n,adj-no) first-class/first-rank/A1/the most/the best/(P)/EntL1165220X/
+２０００年対応 [にせんねんたいおう] /(exp) {comp} Y2K compliant/EntL2138220X/
+２０００年問題 [にせんねんもんだい] /(n) {comp} Y2K bug/year 2000 problem/EntL1624460X/
+２０００年問題対応 [にせんねんもんだいたいおう] /(exp) {comp} (See ２０００年対応・にせんねんたいおう) Y2K compliant/EntL2138230X/
+２０１２年人類滅亡説 [にせんじゅうにねんじんるいめつぼうせつ] /(n) 2012 human extinction beliefs/2012 doomsday theory/EntL2676810/
+２４時間;二十四時間 [にじゅうよじかん] /(n) 24 hours/twenty-four hours/EntL2623050/
+２Ｄ [ツーディー] /(n) 2D/two dimensional/EntL2832154/
+２ＤＫ [にディーケー] /(n) two rooms and a combination dining-kitchen/EntL2832153/
+２ちゃんねらー;２ちゃんねら [にちゃんねらー(２ちゃんねらー);にちゃんねら(２ちゃんねら)] /(n) 2channeler/2chan user/EntL2223600/
+２ちゃんねる [にちゃんねる] /(n) {comp} 2channel (Japanese online forum)/EntL2571790/
+２ルート化 [にルートか] /(n) {comp} (link, path) redundancy/EntL2276970X/
+２価イオン;二価イオン [にかイオン] /(n) divalent ion/EntL2780000/
+２時;二時 [にじ] /(n-t) two o'clock/EntL2612170/
+２次局 [にじきょく] /(n) {comp} secondary station/EntL2276990X/
+２進−５進;２進５進 [にしんごしん] /(n) {comp} biquinary/EntL2277000/
+２進データ同期通信 [にしんデータどうきつうしん] /(n) {comp} binary synchronous communication/EntL2277020X/
+２進演算 [にしんえんざん] /(n) {comp} binary arithmetic operation/EntL2277030X/
+２進化１０進コード;二進化十進コード [にしんかじっしんコード] /(n) {comp} binary-coded decimal code/EntL2277040X/
+２進化１０進数;二進化十進数 [にしんかじっしんすう] /(n) {comp} binary coded decimal/BCD/EntL2277050X/
+２進化１０進表示法;二進化十進進表示法 [にしんかじっしんひょうじほう] /(n) {comp} binary-coded decimal representation/EntL2277060/
+２進化１０進法;二進化十進法 [にしんかじっしんほう] /(n) {comp} binary-coded decimal notation/EntL2277070/
+２進加算器 [にしんかさんき] /(n) {comp} binary adder/EntL2277080X/
+２進数;二進数 [にしんすう] /(n) {comp} binary digits/EntL2536600/
+２進数字 [にしんすうじ] /(n) {comp} binary digit/EntL2277090X/
+２部上場企業 [にぶじょうじょうきぎょう] /(n) Second Section company (on the Tokyo Stock Exchange)/EntL2261370X/
+２変量補間 [にへんりょうほかん] /(n) {comp} bivariable interpolation/EntL2277100X/
+３９ [さんきゅう] /(int) (sl) (See サンキュー) thank you/EntL2831899/
+３Ｄ [スリーディー;さんディー] /(n) 3D/three dimensional/EntL2304700X/
+３Ｄカメラ [スリーディーカメラ] /(n) (See ステレオカメラ) 3D camera/stereo camera/EntL2832087/
+３Ｄグラス [スリーディーグラス] /(n) 3D glasses/EntL2832085/
+３Ｄグラフィックス [スリーディーグラフィックス] /(n) 3D graphics/EntL2832089/
+３Ｄテレビ [スリーディーテレビ] /(n) 3D television/EntL2832088/
+３Ｄプリンタ;３Ｄプリンター [スリーディープリンタ(３Ｄプリンタ);スリーディープリンター(３Ｄプリンター)] /(n) 3D printer/EntL2704440/
+３Ｄプリント [スリーディープリント] /(n) 3D printing/EntL2832081/
+３Ｄプロジェクションマッピング [スリーディープロジェクションマッピング;スリーディー・プロジェクション・マッピング] /(n) 3D projection mapping/projection mapping/EntL2832091/
+３Ｄ印刷機 [スリーディーいんさつき] /(n) 3D printer/EntL2832083/
+３Ｄ映画 [スリーディーえいが;さんディーえいが] /(n) 3D movie/EntL2225640X/
+３Ｄ映像 [スリーディーえいぞう;さんディーえいぞう] /(n) 3D image/EntL2225650X/
+３Ｄ眼鏡;３Ｄメガネ [スリーディーめがね(３Ｄ眼鏡);スリーディーメガネ(３Ｄメガネ)] /(n) 3D glasses/EntL2832084/
+３Ｄ酔い [スリーディーよい] /(n) virtual reality sickness/3D sickness/EntL2832086/
+３Ｋ;三Ｋ [さんケー] /(n) (1) (from きつい・汚い・危険) difficult, dirty, and dangerous (work)/(2) apartment with three bedrooms and a kitchen/EntL2807190/
+３Ｋ放射;三Ｋ放射 [さんケーほうしゃ] /(n) (See 宇宙背景放射) 3K radiation/cosmic background radiation/EntL2807200/
+３Ｐ [さんピー] /(n) (col) threesome/EntL2249860X/
+３ＰＬ [スリーピーエル;さんピーエル] /(n) (See サードパーティーロジスティクス) third-party logistics/3PL/EntL2829280/
+３カードモンテ [スリーカードモンテ] /(n) three-card monte (card game)/EntL2112540X/
+３元材料 [さんげんざいりょう] /(n) ternary material (e.g. semiconductor)/EntL2540930/
+３士;三士 [さんし] /(n) (obs) recruit (former rank in the JSDF)/EntL1300490X/
+３時のおやつ;三時のおやつ;三時のお八つ [さんじのおやつ] /(exp) afternoon refreshment/afternoon tea/EntL2206270X/
+３次元(P);三次元 [さんじげん] /(n) (1) three dimensions/three dimensional/3D/3-D/(n,adj-no) (2) (sl) (joc) (as opposed to the two dimensions of anime and manga) real world/IRL (in real life)/(P)/EntL1300530X/
+３次元コンピュータグラフィックス;三次元コンピュータグラフィックス [さんじげんコンピュータグラフィックス] /(n) 3D computer graphics/3DCG/EntL2711780/

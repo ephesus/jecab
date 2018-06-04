@@ -9,11 +9,25 @@ class JecabTest < Minitest::Test
 
   def setup
     Jecab.configure do |c|
+      c.jmdict_txt = File.read(File.join(Jecab.root, 'test', 'edict2-test.txt'))
     end
   end
 
   def test_configuration_created
     refute Jecab.configuration.nil?
+  end
+  
+  def test_fix_wrong_encoding
+    euc_txt = File.read(File.join(Jecab.root, 'test', 'edict2-euc-jp.txt'))
+    #infile is EUC-JP
+    assert_equal 'EUC-JP', ::CharlockHolmes::EncodingDetector.detect(euc_txt)[:encoding]
+
+    #imported it's UTF-8
+    Jecab.configure do |c|
+      @jmdict_txt = euc_txt
+    end
+
+    assert_equal 'UTF-8', ::CharlockHolmes::EncodingDetector.detect(Jecab.configuration.jmdict_txt)[:encoding]
   end
 
   def test_configuration_defaults
